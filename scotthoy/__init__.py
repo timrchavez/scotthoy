@@ -6,7 +6,7 @@ import random
 import webbrowser
 
 
-SCOTT_HOY_PSA = "https://youtu.be/C6eXBGOe-g4?t=24s"
+SCOTT_HOY_PSA = "https://youtu.be/48WKTXzU0pE?t=24s"
 
 
 class scotthoy(object):
